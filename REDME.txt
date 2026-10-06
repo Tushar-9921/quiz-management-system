@@ -1,0 +1,14 @@
+NAME            : Parmar Tushar
+CLASS           : E
+STREAM          : BCA 5th SEM
+ROLL NO.        : 36
+G.R.NO.         : 4025
+ENROLLMENT NO.  : 24CS002UG00220
+PROJECT NAME    : QUIZ MANAGEMENT SYSTEM
+PROJECT LANGUAGE: PHP
+EMAIL           : trparamr.3480@gmail.com	
+MOBILE NO.      : 7874989921
+
+ADMIN
+username : trparmar.3480@gmail.com
+password : Shiv@9921
